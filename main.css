@@ -1,3 +1,8 @@
+@font-face {
+	font-family: futurastd;
+	src:local("Futura Std Heavy Oblique.otf");
+}
+
 p {
-	font-family: "Futura Std"
+	font-family: "Futura Std";
 }
