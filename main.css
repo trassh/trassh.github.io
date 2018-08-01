@@ -2,8 +2,20 @@ body {
 	background-color: #36393f;
 }
 
-p {
+li {
 	background-color: #36393f;
 	font-family: "Futura Std";
 	color: #fff;
+	display: inline;
+	padding: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+svg {
+	fill: #fff;
 }
